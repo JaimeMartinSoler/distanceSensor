@@ -10,8 +10,8 @@
  
 // INCLUDES -------------------------------------------------------------
 #include <LiquidCrystal.h>
-#include <C:\Users\Jaime\Documents\Arduino\test\distanceSensor\Ultrasonic.h>
-#include <C:\Users\Jaime\Documents\Arduino\test\distanceSensor\signalFunction.h>
+#include "Ultrasonic.h"
+#include "signalFunction.h"
 
 
 
