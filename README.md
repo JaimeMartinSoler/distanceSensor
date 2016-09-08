@@ -73,7 +73,8 @@ The ultrasonic distance sensor range is quite wide (around 20º) and it fails wh
 ## LICENSE
 Under development.
 
-[//]: # (.md editor: <http://dillinger.io/>)
+[//]: # (
+.md editor: <http://dillinger.io/>)
 
 
 [Distance Sensor]: <https://github.com/JaimeMartinSoler/distanceSensor>
