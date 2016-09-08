@@ -43,7 +43,7 @@ cm=15;
     - Echo: red
     - GND: brown
 - Note that it might run slowly, due to the emulation capabilities.
-- 
+
 ## OTHER NOTES
 The ultrasonic distance sensor range is quite wide (around 20º) and it fails when the surface is not perpendicular or homogeneus. Maybe, a setup with many laser distance sensors would solve those issues.
 
