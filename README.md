@@ -13,7 +13,7 @@ This distance sensor allows 3 different outputs and 1 input:
     - **Button**: Pause/Resume Button
 
 ## CONFIGURATION
-#### Distance Ranges and Beep periods (distanceSensor.ino):
+### Distance Ranges and Beep periods (distanceSensor.ino):
 ```sh
 const int rangesSize = 4;
 const short int ranges[rangesSize]    = {10, 30, 100, 200};  // cm
@@ -23,7 +23,7 @@ const short int periods[rangesSize-1] = {200, 600, 1500};    // ms
 - **cm > ranges[rangesSize-1]**: LED and the buzzer with no light nor sound.
 - **ranges[i] < cm < ranges[i+1]**: LED and buzzer with flash and beep every periods[i] milliseconds.
 
-#### Sensing Range and Frequency (Ultrasonic.cpp):
+### Sensing Range and Frequency (Ultrasonic.cpp):
 ```sh
 Time_out=12000;  // 6000 µs = 1m // 30000 µs = 5 m 
 ```
