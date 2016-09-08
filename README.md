@@ -29,21 +29,21 @@ Time_out=12000;  // 6000 µs = 1m // 30000 µs = 5 m
 ```
 Time_out determines the maximum sensing range, proportional to the relation 6000µs->1m (max is 24000µs->4m). It also affects the sensing frequency (the Time_out is the minimum time for each distance measure).
 
-## ABOUT SENSOR (HC-SR04) & EMULATION (circuits.io)
+## ABOUT SENSOR (HC-SR04) & EMULATION ([circuits.io])
 
 This setup has been developed for the Ultrasonic Sensor HC-SR04, which is not available in circuits.io (another one is shown just for cosmetic reasons). Then, note that:
+- To test the program from [circuits.io] emulator, go to [my project] and modify the line in the code (just in case you want to test it with different distances):
+```sh
+// manually set cm=15, cause circuits.io does not handle the HC-SR04 Ultrasonic Sensor
+cm=15;
+```
 - The HC-SR04 would be connected as shown in the Breadboard mini "Ultrasonic_Interface":
     - VCC: yellow
     - Trig: orange
     - Echo: red
     - GND: brown
-- To test the program from circuits.io emulator, go to [my project] and modify the line in the code (just in case you want to test it with different distances):
 - Note that it might run slowly, due to the emulation capabilities.
-```sh
-// manually set cm=15, cause circuits.io does not handle the HC-SR04 Ultrasonic Sensor
-cm=15;
-```
-
+- 
 ## OTHER NOTES
 The ultrasonic distance sensor range is quite wide (around 20º) and it fails when the surface is not perpendicular or homogeneus. Maybe, a setup with many laser distance sensors would solve those issues.
 
@@ -57,3 +57,4 @@ Under development.
 
 [Distance Sensor]: <https://github.com/JaimeMartinSoler/distanceSensor>
 [my project]: <https://circuits.io/circuits/2625122-distancesensor>
+[circuits.io]: <https://circuits.io/circuits/2625122-distancesensor>
