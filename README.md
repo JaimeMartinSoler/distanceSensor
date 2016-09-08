@@ -82,5 +82,4 @@ Under development.
 [//]: #
 (
 .md editor: <http://dillinger.io/>
-.md cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 )
