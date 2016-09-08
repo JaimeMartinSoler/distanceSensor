@@ -83,5 +83,5 @@ Under development.
 (
 .md editor: <http://dillinger.io/>
 .md cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-Invisible character for extra line breaking " ": <http://stackoverflow.com/questions/17978720/invisible-characters-ascii>
+Invisible character for extra line breaking: <http://stackoverflow.com/questions/17978720/invisible-characters-ascii>
 )
