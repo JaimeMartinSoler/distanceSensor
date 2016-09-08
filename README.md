@@ -79,8 +79,8 @@ Under development.
 [circuits.io]: <https://circuits.io/circuits/2625122-distancesensor>
 [img/circuits_io.jpg]: <https://raw.githubusercontent.com/JaimeMartinSoler/distanceSensor/master/img/circuits_io.jpg>
 
-[//]: # (
+[//]: #
+(
 .md editor: <http://dillinger.io/>
 .md cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-Invisible character for extra line breaking: <http://stackoverflow.com/questions/17978720/invisible-characters-ascii>
 )
