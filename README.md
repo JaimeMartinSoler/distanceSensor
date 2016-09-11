@@ -1,6 +1,6 @@
 # DISTANCE SENSOR
 
-[Distance Sensor] with **ArduinoUno**, perfect for cars. With LCD screen, LED, buzzer and pause button. Check real time emulation in [circuits.io].
+[Distance Sensor] with **ArduinoUno**, perfect for cars. With LCD screen, LED, buzzer and pause button. Check a real time emulation in [circuits.io].
 ![alt tag][img/circuits_io.jpg]
 
  
