@@ -71,15 +71,17 @@ The ultrasonic distance sensor range is quite wide (around 20º) and it fails wh
 
 --------------------------------------------------------------------------------
 ## LICENSE
-Under development.
+This software is under [MIT license].
 
 
 [Distance Sensor]: <https://github.com/JaimeMartinSoler/distanceSensor>
 [my project]: <https://circuits.io/circuits/2625122-distancesensor>
 [circuits.io]: <https://circuits.io/circuits/2625122-distancesensor>
 [img/circuits_io.jpg]: <https://raw.githubusercontent.com/JaimeMartinSoler/distanceSensor/master/img/circuits_io.jpg>
+[MIT license]: <https://github.com/JaimeMartinSoler/distanceSensor/blob/master/license>
 
 
 [//]: # (.md editor: <http://dillinger.io/>)
 [//]: # (.md cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>)
 [//]: # (Invisible character for extra line breaking " ": <http://stackoverflow.com/questions/17978720/invisible-characters-ascii>)
+[//]: # (MIT license: <https://opensource.org/licenses/MIT>)
